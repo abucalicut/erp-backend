@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERPBE", "ERPBE\ERPBE.csproj", "{0921E2DD-0DBD-4BFF-B3DC-7E9D73CF45C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERPBE", "ERPBE\ERPBE.csproj", "{0921E2DD-0DBD-4BFF-B3DC-7E9D73CF45C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{CAD08251-B355-4E87-AD73-65E8743AD104}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authentication.Services", "Authentication.Services\Authentication.Services.csproj", "{BF2A0CC1-8C03-4EEE-A67B-DA55CC17A9EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{9B85F1CC-CE03-4D44-9419-2A08F89A2D36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User.Data", "User.Data\User.Data.csproj", "{55F7651A-15C5-4E15-832E-2F9743E7CB06}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{003AAC06-4D1F-47FD-8758-BB3EFC85AE1C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{2573E344-D54C-41A5-B09A-E02464083B28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +27,22 @@ Global
 		{0921E2DD-0DBD-4BFF-B3DC-7E9D73CF45C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0921E2DD-0DBD-4BFF-B3DC-7E9D73CF45C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0921E2DD-0DBD-4BFF-B3DC-7E9D73CF45C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF2A0CC1-8C03-4EEE-A67B-DA55CC17A9EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF2A0CC1-8C03-4EEE-A67B-DA55CC17A9EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF2A0CC1-8C03-4EEE-A67B-DA55CC17A9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF2A0CC1-8C03-4EEE-A67B-DA55CC17A9EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55F7651A-15C5-4E15-832E-2F9743E7CB06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55F7651A-15C5-4E15-832E-2F9743E7CB06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55F7651A-15C5-4E15-832E-2F9743E7CB06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55F7651A-15C5-4E15-832E-2F9743E7CB06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0921E2DD-0DBD-4BFF-B3DC-7E9D73CF45C5} = {2573E344-D54C-41A5-B09A-E02464083B28}
+		{BF2A0CC1-8C03-4EEE-A67B-DA55CC17A9EC} = {CAD08251-B355-4E87-AD73-65E8743AD104}
+		{55F7651A-15C5-4E15-832E-2F9743E7CB06} = {9B85F1CC-CE03-4D44-9419-2A08F89A2D36}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6B649910-0CB7-47D1-A5BC-8D06AFCDB9A2}

@@ -2292,11 +2292,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abu\\Desktop\\Networth Files\\ERPBE\\ERPBE\\ERPBE.csproj",
+      "projectUniqueName": "D:\\ERP-BE\\erp-backend\\ERPBE\\ERPBE.csproj",
       "projectName": "ERPBE",
-      "projectPath": "C:\\Users\\Abu\\Desktop\\Networth Files\\ERPBE\\ERPBE\\ERPBE.csproj",
+      "projectPath": "D:\\ERP-BE\\erp-backend\\ERPBE\\ERPBE.csproj",
       "packagesPath": "C:\\Users\\Abu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abu\\Desktop\\Networth Files\\ERPBE\\ERPBE\\obj\\",
+      "outputPath": "D:\\ERP-BE\\erp-backend\\ERPBE\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Abu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2365,7 +2365,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

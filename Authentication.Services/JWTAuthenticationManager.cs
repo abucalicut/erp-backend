@@ -4,7 +4,7 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 
-namespace ERPBE
+namespace Authentication.Services
 {
     public class JWTAuthenticationManager : IJWTAuthenticationManager
     {

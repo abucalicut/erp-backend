@@ -1,0 +1,11 @@
+D:\ERP-BE\erp-backend\Authentication.Services\bin\Debug\net6.0\Authentication.Services.deps.json
+D:\ERP-BE\erp-backend\Authentication.Services\bin\Debug\net6.0\Authentication.Services.dll
+D:\ERP-BE\erp-backend\Authentication.Services\bin\Debug\net6.0\Authentication.Services.pdb
+D:\ERP-BE\erp-backend\Authentication.Services\obj\Debug\net6.0\Authentication.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\ERP-BE\erp-backend\Authentication.Services\obj\Debug\net6.0\Authentication.Services.AssemblyInfoInputs.cache
+D:\ERP-BE\erp-backend\Authentication.Services\obj\Debug\net6.0\Authentication.Services.AssemblyInfo.cs
+D:\ERP-BE\erp-backend\Authentication.Services\obj\Debug\net6.0\Authentication.Services.csproj.CoreCompileInputs.cache
+D:\ERP-BE\erp-backend\Authentication.Services\obj\Debug\net6.0\Authentication.Services.dll
+D:\ERP-BE\erp-backend\Authentication.Services\obj\Debug\net6.0\refint\Authentication.Services.dll
+D:\ERP-BE\erp-backend\Authentication.Services\obj\Debug\net6.0\Authentication.Services.pdb
+D:\ERP-BE\erp-backend\Authentication.Services\obj\Debug\net6.0\ref\Authentication.Services.dll

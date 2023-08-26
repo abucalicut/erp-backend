@@ -7,11 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERPBE", "ERPBE\ERPBE.csproj
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{CAD08251-B355-4E87-AD73-65E8743AD104}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authentication.Services", "Authentication.Services\Authentication.Services.csproj", "{BF2A0CC1-8C03-4EEE-A67B-DA55CC17A9EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Authentication.Services", "Authentication.Services\Authentication.Services.csproj", "{BF2A0CC1-8C03-4EEE-A67B-DA55CC17A9EC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{9B85F1CC-CE03-4D44-9419-2A08F89A2D36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User.Data", "User.Data\User.Data.csproj", "{55F7651A-15C5-4E15-832E-2F9743E7CB06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "User.Data", "User.Data\User.Data.csproj", "{55F7651A-15C5-4E15-832E-2F9743E7CB06}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{003AAC06-4D1F-47FD-8758-BB3EFC85AE1C}"
 EndProject

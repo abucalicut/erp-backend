@@ -717,6 +717,16 @@
             "related": ".xml"
           }
         }
+      },
+      "User.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/User.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/User.Data.dll": {}
+        }
       }
     }
   },
@@ -1671,12 +1681,18 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "User.Data/1.0.0": {
+      "type": "project",
+      "path": "../User.Data/User.Data.csproj",
+      "msbuildProject": "../User.Data/User.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.AspNetCore.Authentication >= 2.2.0",
-      "Microsoft.AspNetCore.Authentication.JwtBearer >= 5.0.0"
+      "Microsoft.AspNetCore.Authentication.JwtBearer >= 5.0.0",
+      "User.Data >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1705,7 +1721,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\ERP-BE\\erp-backend\\User.Data\\User.Data.csproj": {
+              "projectPath": "D:\\ERP-BE\\erp-backend\\User.Data\\User.Data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

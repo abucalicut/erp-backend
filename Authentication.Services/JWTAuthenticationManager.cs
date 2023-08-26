@@ -1,11 +1,10 @@
-﻿using ERPBE.Controllers;
-using Microsoft.IdentityModel.Tokens;
+﻿using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-
 namespace Authentication.Services
 {
+    using User.Data.Models;
     public class JWTAuthenticationManager : IJWTAuthenticationManager
     {
         private readonly IDictionary<string, string> authUser = new Dictionary<string, string>       {

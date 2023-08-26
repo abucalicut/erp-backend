@@ -80,3 +80,7 @@ D:\ERP-BE\erp-backend\ERPBE\obj\Debug\net6.0\staticwebassets\msbuild.build.ERPBE
 D:\ERP-BE\erp-backend\ERPBE\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ERPBE.props
 D:\ERP-BE\erp-backend\ERPBE\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ERPBE.props
 D:\ERP-BE\erp-backend\ERPBE\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ERP-BE\erp-backend\ERPBE\bin\Debug\net6.0\Authentication.Services.dll
+D:\ERP-BE\erp-backend\ERPBE\bin\Debug\net6.0\Authentication.Services.pdb
+D:\ERP-BE\erp-backend\ERPBE\bin\Debug\net6.0\User.Data.dll
+D:\ERP-BE\erp-backend\ERPBE\bin\Debug\net6.0\User.Data.pdb

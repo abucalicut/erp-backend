@@ -9,3 +9,7 @@ D:\ERP-BE\erp-backend\Authentication.Services\obj\Debug\net6.0\Authentication.Se
 D:\ERP-BE\erp-backend\Authentication.Services\obj\Debug\net6.0\refint\Authentication.Services.dll
 D:\ERP-BE\erp-backend\Authentication.Services\obj\Debug\net6.0\Authentication.Services.pdb
 D:\ERP-BE\erp-backend\Authentication.Services\obj\Debug\net6.0\ref\Authentication.Services.dll
+D:\ERP-BE\erp-backend\Authentication.Services\obj\Debug\net6.0\Authentication.Services.csproj.AssemblyReference.cache
+D:\ERP-BE\erp-backend\Authentication.Services\obj\Debug\net6.0\Authentication.Services.csproj.CopyComplete
+D:\ERP-BE\erp-backend\Authentication.Services\bin\Debug\net6.0\User.Data.dll
+D:\ERP-BE\erp-backend\Authentication.Services\bin\Debug\net6.0\User.Data.pdb

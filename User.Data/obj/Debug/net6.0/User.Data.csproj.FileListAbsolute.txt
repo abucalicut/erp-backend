@@ -1,0 +1,11 @@
+D:\ERP-BE\erp-backend\User.Data\bin\Debug\net6.0\User.Data.deps.json
+D:\ERP-BE\erp-backend\User.Data\bin\Debug\net6.0\User.Data.dll
+D:\ERP-BE\erp-backend\User.Data\bin\Debug\net6.0\User.Data.pdb
+D:\ERP-BE\erp-backend\User.Data\obj\Debug\net6.0\User.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ERP-BE\erp-backend\User.Data\obj\Debug\net6.0\User.Data.AssemblyInfoInputs.cache
+D:\ERP-BE\erp-backend\User.Data\obj\Debug\net6.0\User.Data.AssemblyInfo.cs
+D:\ERP-BE\erp-backend\User.Data\obj\Debug\net6.0\User.Data.csproj.CoreCompileInputs.cache
+D:\ERP-BE\erp-backend\User.Data\obj\Debug\net6.0\User.Data.dll
+D:\ERP-BE\erp-backend\User.Data\obj\Debug\net6.0\refint\User.Data.dll
+D:\ERP-BE\erp-backend\User.Data\obj\Debug\net6.0\User.Data.pdb
+D:\ERP-BE\erp-backend\User.Data\obj\Debug\net6.0\ref\User.Data.dll
